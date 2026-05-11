@@ -1,7 +1,7 @@
 # Spec — Refactor fullstack de Tawjih 2026
 
 **Date** : 2026-05-11
-**Auteur** : Houssam (avec Claude)
+**Auteur** : Houssam
 **Statut** : En attente de validation
 **Source** : `index.html` (2 511 lignes, SPA monolithique)
 
