@@ -3,3 +3,10 @@ dist/
 .env
 .env.local
 .vite/
+.env.*
+!.env.example
+
+# IDEs
+.vscode/
+.idea/
+*.swp
